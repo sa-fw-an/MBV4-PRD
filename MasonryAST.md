@@ -1,7 +1,7 @@
 <!-- markdownlint-disable -->
 # Music Blocks (v4) - Masonry & AST Product Requirements Document (PRD)
 
-# Definations
+# 1 Definations
 
 ### 1.1 Masonry Definition
 - Masonry refers to the layout mechanism that arranges bricks like pieces in a puzzle or blocks in a wall.  
